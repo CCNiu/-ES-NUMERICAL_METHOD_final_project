@@ -1,3 +1,3 @@
 # NUMERICAL_METHOD_final_project
- 
+111-2數值方法課程期末專題
 ipynb檔是實際做的，py檔是用來打包的
